@@ -29,4 +29,4 @@ Combine, Swift, SwiftUI, Async/Await, Core ​Image, ​Core ​Graphic, ​UIKi
 
 * Connect with me on [Linkedin](https://www.linkedin.com/in/xxx/)
   
-- I’m open to work as a backend developer
+- I’m open to work as a backend/Full-Stack developer

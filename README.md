@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## About me
-I'm a Senior Software Engineer with strong analytical skills, passionate about designing and implementing innovative software solutions.
+I'm a Senior Software Engineer, with 9 years of experience in programming, strong analytical skills, passionate about designing and implementing innovative software solutions.
 
 ![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathan-hh&count_private=true&show_icons=true)
 

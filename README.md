@@ -1,16 +1,32 @@
 ## Hi there 👋
+## About me
+I'm a Senior Software Engineer with strong analytical skills, passionate about designing and implementing innovative software solutions.
 
-<!--
-**nathan-hh/nathan-hh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathan-hh&count_private=true&show_icons=true)
 
-Here are some ideas to get you started:
+### Stack:
+#### Backend: 
+- NestJS, Node.js, TypeScript, TypeORM, PostgreSQL, MongoDB, AWS, FFmpeg, GraphQL, PostgreSQL, RabbitMQ, Kafka, Docker, gRPC
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Mobile:
+Combine, Swift, SwiftUI, Async/Await, Core ​Image, ​Core ​Graphic, ​UIKit, AVFoundation, ​Core ​Foundation​, Core Location, CoreML, ​Core ​Bluetooth, ​Auto ​layout, Core animation, ​Multi-Threading ​/ ​GCD, , Memory management
+- Design: SOLID, KISS, ​Singleton, ​RxSwift, ​OOP, ​MVC, ​MVVM, Coordinator
+- Database: ​Core ​Data, ​Realm, ​Firebase
+- Networking: Web ​Service, REST, ​AFNetworking, ​Socket.IO, ​SwiftyJSON
+
+### Development method: 
+- Agile, Scrum, Kanban, Jira, Git, Jenkins, Fastlane, GitHub Actions
+
+### Languages: 
+- Swift, Objective ​C, Python​​, ​TypeScript, C#, ​C++, ​C
+
+## 🏋️‍♀️ Skills
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathan-hh&hide=Tex,html,vba,scss,css&layout=compact&hide_border=true)
+
+## 📬 Get in touch
+
+* Feel free to leave a [message](mailto:xxx@gmail.com) 
+
+* Connect with me on [Linkedin](https://www.linkedin.com/in/xxx/)
+  
+- I’m open to work as a backend developer

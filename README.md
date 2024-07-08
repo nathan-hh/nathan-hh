@@ -1,8 +1,14 @@
 ## Hi there 👋
-## About me
+---
+
+### About me
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nathan-hh&theme=dark&show_icons=true">
+    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=nathan-hh&show_icons=true">
+</picture>
 I'm a Senior Software Engineer, with 9 years of experience in programming, strong analytical skills, passionate about designing and implementing innovative software solutions.
 
-![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathan-hh&count_private=true&show_icons=true)
+---
 
 ### Stack:
 #### Backend: 

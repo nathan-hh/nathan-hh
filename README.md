@@ -12,7 +12,7 @@ I'm a Senior Software Engineer, with 9 years of experience in programming, stron
 
 ### 👨‍💻 Stack:
 #### 🗄️ Backend: 
-- NestJS, Node.js, TypeScript, TypeORM, PostgreSQL, MongoDB, AWS, FFmpeg, GraphQL, PostgreSQL, RabbitMQ, Kafka, gRPC, Docker
+- NestJS, Node.js, TypeScript, TypeORM, PostgreSQL, MongoDB, AWS, FFmpeg, GraphQL, PostgreSQL, RabbitMQ, Kafka, gRPC, Docker, k8s(Kubernetes)
 
 #### 📱 Mobile:
 Combine, Swift, SwiftUI, Async/Await, Core ​Image, ​Core ​Graphic, ​UIKit, AVFoundation, ​Core ​Foundation​, Core Location, CoreML, ​Core ​Bluetooth, ​Auto ​layout, Core animation, ​Multi-Threading ​/ ​GCD, , Memory management

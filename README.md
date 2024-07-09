@@ -1,7 +1,7 @@
 ## Hi there 👋
 ---
 
-### About me
+### 🙋‍♂️ About me
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nathan-hh&theme=dark&show_icons=true">
     <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=nathan-hh&show_icons=true">
@@ -10,11 +10,11 @@ I'm a Senior Software Engineer, with 9 years of experience in programming, stron
 
 ---
 
-### Stack:
-#### Backend: 
+### 👨‍💻 Stack:
+#### 🗄️ Backend: 
 - NestJS, Node.js, TypeScript, TypeORM, PostgreSQL, MongoDB, AWS, FFmpeg, GraphQL, PostgreSQL, RabbitMQ, Kafka, Docker, gRPC
 
-#### Mobile:
+#### 📱 Mobile:
 Combine, Swift, SwiftUI, Async/Await, Core ​Image, ​Core ​Graphic, ​UIKit, AVFoundation, ​Core ​Foundation​, Core Location, CoreML, ​Core ​Bluetooth, ​Auto ​layout, Core animation, ​Multi-Threading ​/ ​GCD, , Memory management
 - Design: SOLID, KISS, ​Singleton, ​RxSwift, ​OOP, ​MVC, ​MVVM, Coordinator
 - Database: ​Core ​Data, ​Realm, ​Firebase
